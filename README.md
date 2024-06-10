@@ -7,7 +7,7 @@
 
 ## *Contents*
 
-### Part 0.
+### Part 0. 안드로이드 앱 개발 시작에 앞서
 
 <table>
   <thead>
