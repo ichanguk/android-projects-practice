@@ -16,8 +16,16 @@
     </tr>
   </thead>
   <tbody>
-    <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/chapter2/lambda.kt">람다</a></td>
-    <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/chapter2/extensionFunction.kt">확장 함수</a></td>
-    <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/chapter2/scopeFunction.kt">Scope function</a></td>
+    <tr>
+      <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/chapter2/lambda.kt">람다</a></td>
+      <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/chapter2/extensionFunction.kt">확장 함수</a></td>
+      <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/chapter2/scopeFunction.kt">Scope function</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/chapter2/%EC%B4%88%EA%B8%B0%ED%99%94_%EC%A7%80%EC%97%B0.kt">초기화 지연</a></td>
+      <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/chapter2/data_sealed_class.kt">data, sealed class</a></td>
+      <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/chapter2/object_companionObject.kt">object, companion object</a></td>
+    </tr>
+    
   </tbody>
 </table>
