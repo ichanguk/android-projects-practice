@@ -9,11 +9,11 @@
 
 1. 숫자세기 앱
 
-<img src=https://github.com/ichanguk/android-projects-practice/blob/master/image/count_num.png width="650" height="420">
+<img src=https://github.com/ichanguk/android-projects-practice/blob/master/image/count_num.png width="650" height="400">
 
 2. 단위 변환기 앱
 
-<img src=https://github.com/ichanguk/android-projects-practice/blob/master/image/unit_converter.png width="420" height="280">
+<img src=https://github.com/ichanguk/android-projects-practice/blob/master/image/unit_converter.png width="420" height="320">
 
 ## *Contents*
 
