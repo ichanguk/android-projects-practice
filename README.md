@@ -5,6 +5,16 @@
 - 안드로이드 앱 개발 연습을 위한 저장소입니다.
 - 학습 자료 : 패스트 캠퍼스
 
+## *Contents Preview*
+
+1. 숫자세기 앱
+
+<img src=https://github.com/ichanguk/android-projects-practice/blob/master/image/count_num.png width="650" height="420">
+
+2. 단위 변환기 앱
+
+<img src=https://github.com/ichanguk/android-projects-practice/blob/master/image/unit_converter.png width="420" height="280">
+
 ## *Contents*
 
 ### Part 0. 안드로이드 앱 개발 시작에 앞서
@@ -27,5 +37,29 @@
       <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/chapter2/object_companionObject.kt">object, companion object</a></td>
     </tr>
     
+  </tbody>
+</table>
+
+### Part 1. 안드로이드 기본
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4"; style="text-align:center"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/CountNumActivity.kt">숫자세기 앱</a></td>
+      <td><a href="https://github.com/ichanguk/android-projects-practice/blob/master/app/src/main/java/com/example/android_projects_practice/UnitConverterActivity.kt">단위 변환기 앱</a></td>
+      <td>응급 의료정보 앱</td>
+      <td>계산기 앱</td>
+    </tr>
+    <tr>
+      <td>스톱워치 앱</td>
+      <td>단어장 앱</td>
+      <td>나만의 액자 앱</td>
+      <td>음악재생 앱</td>
+    </tr>
   </tbody>
 </table>
